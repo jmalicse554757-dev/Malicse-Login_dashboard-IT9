@@ -1,15 +1,19 @@
 body {
     font-family: Arial, sans-serif;
-   background-color: #c0bebe;
+   background-image: url(windows\ black.jpg);
+   background-size: cover;
     margin: 0;
     padding: 0;
 }
 
+
+
+
 /* LOGIN PAGE */
 form {
     background-color: white;
-    width: 500px;
-    margin: 100px auto;
+    width: 700px;
+    margin: 50px auto;
     padding: 20px;
     border-radius: 5px;
 }
@@ -22,8 +26,10 @@ p {
     text-align: center;
 }
 
+/* INPUT */
+
 input {
-    width: 90%;
+    width: 95%;
     padding: 8px;
 }
 
@@ -42,7 +48,7 @@ button:hover {
 
 /* DASHBOARD */
 table {
-    width: 80%;
+    width: 90%;
     margin: 20px auto;
     border-collapse: collapse;
     background-color: rgb(237, 236, 236);

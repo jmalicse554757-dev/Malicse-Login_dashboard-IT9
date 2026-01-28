@@ -1,0 +1,5 @@
+This website is simple and easy to use. When you open the website, you will first see the Login page. To continue, type your username and password in the input fields and click the Log In button. After clicking the button, you will be taken directly to the Dashboard page where you can see the main content of the website. If you do not have an account yet, you can go to the Register page by clicking the register link on the login page.
+
+On the Register page, you need to fill in your information such as your full name, username, email, password, and confirm password. Once all fields are filled, click the Register button. After registering, the website will redirect you back to the Login page, where you can log in using your credentials.
+
+After logging in, you will be on the Dashboard page. This page displays a table with student information. You can view the data on this page, and when you are done using the website, you can click the Log Out button. Clicking this button will bring you back to the Login page, allowing you to exit the dashboard or log in again.
